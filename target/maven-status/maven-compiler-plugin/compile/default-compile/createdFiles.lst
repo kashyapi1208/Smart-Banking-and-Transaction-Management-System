@@ -1,0 +1,15 @@
+com\bank\App.class
+com\bank\storage\FileManager.class
+com\bank\MainApp$5.class
+com\bank\service\StatementManager.class
+com\bank\service\AccountManager.class
+com\bank\model\SavingsAccount.class
+com\bank\model\CurrentAccount.class
+com\bank\model\Transaction.class
+com\bank\MainApp$4.class
+com\bank\MainApp$3.class
+com\bank\model\Account.class
+com\bank\service\BankService.class
+com\bank\MainApp$1.class
+com\bank\MainApp$2.class
+com\bank\MainApp.class

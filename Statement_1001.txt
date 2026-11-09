@@ -1,0 +1,33 @@
+==================================
+       SMART BANKING SYSTEM
+          ACCOUNT STATEMENT
+==================================
+Account Number: 1001
+Customer Name: Rahul
+Account Type: Savings
+Current Balance: Rs. 8000.0
+----------------------------------
+         TRANSACTION HISTORY
+----------------------------------
+Transaction ID: T101
+Type: DEPOSIT
+From: 1001
+To: -
+Amount: Rs. 2000.0
+Date: 09-11-2026 10:34:28
+----------------------------------
+Transaction ID: T102
+Type: WITHDRAW
+From: 1001
+To: -
+Amount: Rs. 1000.0
+Date: 09-11-2026 10:35:22
+----------------------------------
+Transaction ID: T103
+Type: TRANSFER
+From: 1001
+To: 1002
+Amount: Rs. 3000.0
+Date: 09-11-2026 10:35:47
+----------------------------------
+       END OF STATEMENT
